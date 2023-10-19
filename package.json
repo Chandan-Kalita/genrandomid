@@ -17,5 +17,9 @@
     "unique",
     "unique id generator",
     "unique id"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chandan-Kalita/genrandomid.git"
+  }
 }
