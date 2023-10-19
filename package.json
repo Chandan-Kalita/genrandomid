@@ -1,0 +1,21 @@
+{
+  "name": "genrandomid",
+  "version": "1.0.2",
+  "description": "generate random string of desired length based on timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandan Kalita",
+  "license": "ISC",
+  "keywords": [
+    "random",
+    "random string",
+    "random string generate",
+    "uid",
+    "uid generator",
+    "unique",
+    "unique id generator",
+    "unique id"
+  ]
+}
